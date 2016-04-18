@@ -14,5 +14,6 @@ while (true) {
         console.log(num);
         break;
     }
+    //奇数のみが回文になりうる
     num += 2;
 }
