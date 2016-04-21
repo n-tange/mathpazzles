@@ -9,7 +9,7 @@ core packagesにすでにインストール済み
 * atom-beauty  
 コード整形。ctl+alt-bで整形  
 https://atom.io/packages/atom-beautify  
-合わせてSettingのsoft wrapを有効にするといいかも
+(合わせてSettingのsoft wrapを有効にすると良いか)
 
 ### Javascript実行環境
 * node.js  
