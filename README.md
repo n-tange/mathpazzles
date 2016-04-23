@@ -31,3 +31,13 @@ http://jshint.com/install/
 * script  
 cmd+i(mac)でスクリプトを実行する  
 https://atom.io/packages/script
+
+### おまけ ColdFusion
+* emmet  
+https://atom.io/packages/emmet
+
+* language-cfml  
+https://atom.io/packages/language-cfml
+
+* linter-cflint  
+https://atom.io/packages/linter-cflint
